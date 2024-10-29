@@ -4,6 +4,7 @@
 This repository contains scripts and resources used in the study "Exploring Adaptive Introgression in Modern Human Circadian Rhythm Genes," which is currently available as a preprint on bioRxiv. The research focuses on understanding how adaptive introgression from archaic humans, such as Neanderthals and Denisovans, has influenced circadian rhythm genes in modern human populations.
 
 
+# Citation
 If you use the scripts or methods from this repository, please cite the preprint:
 
 Exploring Adaptive Introgression in Modern Human Circadian Rhythm Genes
